@@ -17,3 +17,6 @@ hs_err_pid*
 xtend-gen
 */.gradle
 build
+..gitignore.un~
+.gitignore~
+.gradle/
