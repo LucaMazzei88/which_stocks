@@ -20,3 +20,7 @@ build
 ..gitignore.un~
 .gitignore~
 .gradle/
+/bin/
+.classpath
+.project
+.settings
