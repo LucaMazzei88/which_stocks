@@ -4,6 +4,6 @@ import java.util.List
 
 interface TickerDao {
 	
-	def List<Ticker> importTicket(){}
+	def List<Ticker> importTicket()
 	
 }
